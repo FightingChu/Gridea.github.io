@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Gridea.github.io</id>
+    <title>cc</title>
+    <updated>2020-10-13T01:11:19.938Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Gridea.github.io"/>
+    <link rel="self" href="https://Gridea.github.io/atom.xml"/>
+    <subtitle>只是一个长期主义者罢了。</subtitle>
+    <logo>https://Gridea.github.io/images/avatar.png</logo>
+    <icon>https://Gridea.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, cc</rights>
+    <entry>
+        <title type="html"><![CDATA[第一次使用Gridea]]></title>
+        <id>https://Gridea.github.io/post/di-yi-ci-shi-yong-gridea/</id>
+        <link href="https://Gridea.github.io/post/di-yi-ci-shi-yong-gridea/">
+        </link>
+        <updated>2020-10-13T01:03:39.000Z</updated>
+        <content type="html"><![CDATA[<p>####Gridea——梦想中的博客写作软件，如今终于被我发现了。</p>
+<p>  这个软件是无意中网友告诉我的，结合github可以达到配合的作用，类似typroa和picgo，抱着试一试的态度，发现还是可行的，其次，之前一直在简书和知乎（知乎已放弃）发布文章，这一次可以有自己的网站了，并且完全免费，可以写一写宣传的东西，真心不错。<br>
+  那么接下来，开始我们的&quot;正题&quot;</p>
+<p>  *1:*运动<br>
+  今日份早晨跑步完完成，昨天在思考要不要加上跑步图，今天决定了加上，反正闲着也是闲着，不如多操作操作，发现已经都跑了四天了，主要是下了班以后跑。跑了几天了发现身体真的比已经舒服很多，也让我意识到跑后拉伸是多么的重要，这几天跑完每天都拉伸，发现腿不是很疼，就是酸，查了查，这是正常的，如果特别疼，说明肌肉一直特别紧，这不是什么好现象，所以跑完步，一定要拉伸。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://Gridea.github.io/post/guan-yu/</id>
+        <link href="https://Gridea.github.io/post/guan-yu/">
+        </link>
+        <updated>2020-09-30T08:08:33.000Z</updated>
+        <content type="html"><![CDATA[<p>  此网站是私人搭设网站，如果侵权或者问题，请联系我！<br>
+<img src="https://gitee.com/cwyay/picture/raw/master/img/20200930155513.png" alt="微信" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
